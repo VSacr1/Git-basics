@@ -1,2 +1,4 @@
 This is an example change. Added a new file to my github
 Example of git ignore is being shownX
+
+Added some new text here to show conflict
