@@ -1,4 +1,5 @@
 This is an example change. Added a new file to my github
-Example of git ignore is being shownX
+Example of git ignore is being shown.
 
-Added some new text here to show conflict
+This is an example of a change being made on github to show conflict. 
+
