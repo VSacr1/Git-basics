@@ -1,0 +1,2 @@
+This is example of code!
+print("Hello World")
